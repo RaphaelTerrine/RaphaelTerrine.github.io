@@ -10,7 +10,7 @@ title: "Presentations"
 ###### Talks
 
 
-- *Convergence of a numerical scheme for solving an inverse problem : Application to tsunami reconstruction *,  
+- *Convergence of a numerical scheme for solving an inverse problem : Application to tsunami reconstruction*,  
 29 October 2025,  
 [PICOF'2025](https://picof2025.sciencesconf.org/),  
 [slides](/assets/files/hamammet.pdf) no animations...
