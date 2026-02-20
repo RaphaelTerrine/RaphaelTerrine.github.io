@@ -12,7 +12,8 @@ I am interested in the study of Partial Differential Equations both numerically 
 ##### News
 
 -Currently working on two papers in collaboration with [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/) and [Laurent Bourgeois](https://cv.hal.science/laurent-bourgeois):
--*About the convergence of a discretised optimal control approach: application to a tsunami inverse problem*
+
+- *About the convergence of a discretised optimal control approach: application to a tsunami inverse problem*
 
 ##### Community
 
