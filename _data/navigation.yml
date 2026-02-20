@@ -7,7 +7,7 @@ main:
   - title: "Presentations"
     url: /presentations/
   - title: "CV"
-    url: "https://github.com/RaphaelTerrine/RaphaelTerrine.github.io/blob/main/assets/files/cv.pdf"
+    url: "https://RaphaelTerrine.github.io/assets/files/cv.pdf"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
