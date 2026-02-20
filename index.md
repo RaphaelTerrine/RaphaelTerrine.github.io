@@ -15,6 +15,3 @@ I am interested in the study of Partial Differential Equations both numerically 
 
 - *About the convergence of a discretised optimal control approach: application to a tsunami inverse problem*
 
-##### Community
-
-I am currently engaged in the sustainable development group at [CMAP](https://portail.polytechnique.edu/cmap/en), École polytechnique. I also co-founded [Aymeric Dieuleveut's team](https://adieuleveutteam.github.io/) group meeting with [Margaux Zaffran](https://mzaffran.github.io), which I still co-organize with [Daniel Berg Thomsen](https://bergthomsen.com). 
