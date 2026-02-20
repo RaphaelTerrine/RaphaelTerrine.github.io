@@ -9,25 +9,16 @@ title: "Presentations"
 
 ###### Talks
 
-- *A Unified Breakdown Analysis for Byzantine Robust Gossip*,  
-24 september 2025,  
-[REDEEM retreat in Annecy](https://redeem-pepria.github.io/en/post/2025-09-24_retreat/),  
-[slides](/assets/files/Renaud_Redeem_September2025.pdf).
 
-- *A Unified Breakdown Analysis for Byzantine Robust Gossip*,  
-17 september 2025,  
-[Workshop on Adversarial Threats on Real Life Learning Systems](https://mlsecurity-workshop.github.io),  
-[slides](/assets/files/Renaud_AdverLearSyst_September2025.pdf).
+- *Convergence of a numerical scheme for solving an inverse problem : Application to tsunami reconstruction *,  
+29 October 2025,  
+[PICOF'2025](https://picof2025.sciencesconf.org/),  
+[slides](/assets/files/hamammet.pdf) no animations...
 
-- *A Unified Breakdown Analysis for Byzantine Robust Gossip*,  
-4 september 2025,  
-[StatMathAppli](https://statmathappli.mathnum.inrae.fr),  
-[slides](/assets/files/Renaud_StatMathAppli_2025_condensee.pdf).
-
-- *Achieving Optimal Breakdown for Byzantine Robust Gossip*,  
-October 2024,  
-[Toth team](https://team.inria.fr/thoth/) retreat,  
-[slides](/assets/files/thoth_october_2024.pdf).
+- *Identification of bottom deformations from surface measurements*,  
+5 June 2025,  
+[SMAI 2025](https://smai2025.math.cnrs.fr/fr/),  
+[slides](/assets/files/smai.pdf) no animations...
 
 - *About the identification of tsunamis from surface measurements*,  
 4 July 2024,  
