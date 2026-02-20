@@ -17,12 +17,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Renaud Gaucher"
+title                    : "Raphael Terrine"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Renaud Gaucher"
-description              : "Renaud Gaucher's academic website."
-url                      : "https://renaudgaucher.github.io"
+name                     : "Raphael Terrine"
+description              : "Raphael Terrine's academic website."
+url                      : "https://RaphaelTerrine.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -113,24 +113,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Renaud Gaucher"
-  avatar           : "/assets/images/bio_photo.JPG"
-  bio              : "PhD Student in Optimization and Machine Learning."
+  name             : "RaphaelTerrine"
+  avatar           : "/assets/images/IMG_20240722_204422.JPG"
+  bio              : "PhD Student in Inverse problems for PDE ."
   location         : 
   email            : 
   links:
-    - label: "renaud.gaucher_at_polytechnique.edu"
+    - label: "raphael.terrine@ensta-paris.fr"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:renaud.gaucher_at_polytechnique.edu?body=Replace _at_ with @ in the recipient e-mail!"
-    - label: "ArXiv"
-      icon: "ai ai-fw ai-arxiv"
-      url: "https://arxiv.org/search/?searchtype=author&query=Gaucher%2C+R"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/renaudgaucher"
+      url: "mailto:raphael.terrine@ensta-paris.fr?body=Replace _at_ with @ in the recipient e-mail!"
     - label: "Scholar"
       icon: "ai ai-fw ai-google-scholar"
-      url: "https://scholar.google.com/citations?user=w0eWVy4AAAAJ&hl=fr&oi=ao"
+      url: "https://scholar.google.fr/citations?user=JSjY8fkAAAAJ&hl=fr"
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   # url: "mailto:your.name@email.com"
