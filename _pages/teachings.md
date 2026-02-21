@@ -7,13 +7,11 @@ title: "Teachings"
 #   overlay_image: /assets/images/ardon.jpg
 ---
 
-###### Publications
+###### As a Teacher assistant
 
-- *Identification of bottom deformations of the ocean from surface measurements. L. Bourgeois, J-F. Mercier, R. Terrine*
+- *Teacher in a L3 level class concerning the introduction to PDE and useful tools, 2023-2025*
    
-[AIMS](https://www.aimsciences.org/article/doi/10.3934/ipi.2025008)  
-[Hal](https://inria.hal.science/hal-04514543/document)
+[Resources](https://synapses.ensta-paris.fr/catalogue/2020-2021/ue/4/MA102-outils-elementaires-d-analyse-pour-les-equations-aux-derivees-partielles)  
 
 
 
-###### Pre-prints
