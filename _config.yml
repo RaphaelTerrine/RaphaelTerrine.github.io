@@ -125,6 +125,8 @@ author:
     - label: "Scholar"
       icon: "ai ai-fw ai-google-scholar"
       url: "https://scholar.google.fr/citations?user=JSjY8fkAAAAJ&hl=fr"
+    - label: "06.76.17.44.25"
+  
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
     #   # url: "mailto:your.name@email.com"
