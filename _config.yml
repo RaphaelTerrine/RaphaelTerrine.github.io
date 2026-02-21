@@ -122,7 +122,7 @@ author:
     - label: "raphael.terrine@ensta-paris.fr"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:raphael.terrine@ensta-paris.fr?body=Replace _at_ with @ in the recipient e-mail!"
-    - label: "06.76.17.44.25"
+    - telephone: "06 76 17 44 25"
     - label: "Scholar"
       icon: "ai ai-fw ai-google-scholar"
       url: "https://scholar.google.fr/citations?user=JSjY8fkAAAAJ&hl=fr"
