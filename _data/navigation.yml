@@ -6,8 +6,11 @@ main:
     url: /papers/
   - title: "Talks"
     url: /presentations/
+  - title: "Teachings"
+    url: /teachnings/
   - title: "CV"
     url: "https://RaphaelTerrine.github.io/assets/files/cv.pdf"
+  
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
