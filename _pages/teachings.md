@@ -1,3 +1,4 @@
+---
 permalink: /teachings/
 layout: single
 author_profile: true
