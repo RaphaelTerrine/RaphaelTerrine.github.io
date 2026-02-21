@@ -9,7 +9,7 @@ I am a third year PhD student at [CMAP](https://portail.polytechnique.edu/cmap/e
 
 I am interested in the study of Partial Differential Equations both numerically and theorically and the study of inverse problems using optimal control and one shot methods. My work primarily focuses on the study of inverse problems and on the numerical analysis of the methods employed. Currently, my research is devoted to tsunami detection through free-surface measurements.
 
-##### News
+##### Work in progress
 
 -Currently working on two papers in collaboration with [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/) and [Laurent Bourgeois](https://cv.hal.science/laurent-bourgeois):
 
