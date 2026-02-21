@@ -2,9 +2,9 @@
 main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Papers"
+  - title: "Publications"
     url: /papers/
-  - title: "Presentations"
+  - title: "Talks"
     url: /presentations/
   - title: "CV"
     url: "https://RaphaelTerrine.github.io/assets/files/cv.pdf"
