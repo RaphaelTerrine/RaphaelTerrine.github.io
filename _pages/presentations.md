@@ -10,7 +10,7 @@ title: "Presentations"
 ###### Talks
 
 - *Convergence of a numerical scheme for solving an inverse problem : Application to tsunami reconstruction*,
-26-28 Août 2026
+26-28 Août 2026,
 [Wave-Ned](https://www.tudelft.nl/evenementen/2026/ewi/diam/wave-ned)
 
 - *Convergence of a numerical scheme for solving an inverse problem : Application to tsunami reconstruction*,  
