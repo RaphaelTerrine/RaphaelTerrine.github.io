@@ -18,3 +18,6 @@ Currently, my research is devoted to tsunami detection through free-surface meas
 - *About the convergence of a discretised optimal control approach: application to a tsunami inverse problem*
 - *Identification of botom deformations of the ocean from surface measurements in a space-time framework*
 
+##### Recent actualities    
+
+I am pleased to be invited to speak at a minisymposium at the conference [Wave-Ned](https://www.tudelft.nl/evenementen/2026/ewi/diam/wave-ned) in August
