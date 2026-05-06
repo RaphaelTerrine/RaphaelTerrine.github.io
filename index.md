@@ -20,4 +20,4 @@ Currently, my research is devoted to tsunami detection through free-surface meas
 
 ##### Recent actualities    
 
-I am pleased to be invited to speak at a minisymposium at the conference [Wave-Ned](https://www.tudelft.nl/evenementen/2026/ewi/diam/wave-ned) in August
+I am pleased to be invited to speak at a minisymposium at the conference [Wave-Ned](https://www.tudelft.nl/evenementen/2026/ewi/diam/wave-ned) in August.
