@@ -18,6 +18,12 @@ title: "Papers"
 
 ###### Pre-prints
 
+- *Numerical analysis of an optimal control approach to solve a tsunami inverse problem. L. Bourgeois, P. Moireau, R. Terrine*
 
+[Hal](https://hal.science/hal-05639314v1)
+
+- *An inverse tsunami problem in the time domain: a well-posedness analysis of the forward problem and an inversion strategy based on a mixed formulation of the Tikhonov regularization. L. Bourgeois, P. Moireau, R. Terrine*
+
+[Hal](https://hal.science/hal-05639330v1)
 
 
