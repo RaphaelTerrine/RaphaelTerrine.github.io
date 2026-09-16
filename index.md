@@ -13,5 +13,8 @@ Currently, my research is devoted to tsunami detection through free-surface meas
 
 ##### Work in progress
 
+Working on a paper on a Friedrichs' framework for the tsunami identification problem in collaboration with [Laurent Bourgeois](https://cv.hal.science/laurent-bourgeois) and [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/).
+
 ##### Recent actualities    
 
+I am currently looking for a post-doc in Inverse Problems, Optimal Control, PDE analysis and Numerical analysis.
