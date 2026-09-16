@@ -13,11 +13,5 @@ Currently, my research is devoted to tsunami detection through free-surface meas
 
 ##### Work in progress
 
--Just submitted two papers in collaboration with [Laurent Bourgeois](https://cv.hal.science/laurent-bourgeois) and [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/):
-
-- *Numerical analysis of an optimal control approach to solve a tsunami inverse problem*
-- *An inverse tsunami problem in the time domain : a well-posedness analysis of the forward problem and an inversion strategy based on a mixed formulation of the Tikhonov regularization*
-
 ##### Recent actualities    
 
-I am pleased to be invited to speak at a minisymposium at the conference [Wave-Ned](https://www.tudelft.nl/evenementen/2026/ewi/diam/wave-ned) in August.
