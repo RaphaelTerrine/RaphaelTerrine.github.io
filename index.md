@@ -5,7 +5,7 @@ title: "About me"
 ---
 
 
-I am a third year PhD student at ENSTA Paris, [UMA](https://uma.ip-paris.fr/) and at Ecole Polytechnique, [CMAP](https://portail.polytechnique.edu/cmap/en). I am supervised by [Laurent Bourgeois](https://cv.hal.science/laurent-bourgeois), from UMA and co-supervised by [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/), from CMAP. 
+I just defended my PhD made at ENSTA Paris, [UMA](https://uma.ip-paris.fr/) and at Ecole Polytechnique, [CMAP](https://portail.polytechnique.edu/cmap/en). I was supervised by [Laurent Bourgeois](https://cv.hal.science/laurent-bourgeois), from UMA and co-supervised by [Philippe Moireau](http://www.cmap.polytechnique.fr/~philippe.moireau/), from CMAP. 
 
 I am interested in the study of Partial Differential Equations both numerically and theorically and the study of inverse problems using optimal control and one shot methods. My work primarily focuses on the study of inverse problems and on the numerical analysis of the methods employed. 
 \\
