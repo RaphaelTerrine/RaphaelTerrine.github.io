@@ -18,5 +18,8 @@ title: "Presentations"
 
 - *Identification of bottom deformations from surface measurements*, 5 June 2025, [SMAI 2025](https://smai2025.math.cnrs.fr/fr/), [Slides](/assets/files/smai.pdf)
 
-- *About the identification of tsunamis from surface measurements*, 4 July 2024, [Waves 2024](https://waves2024.mps.mpg.de/) , [Abstract](/assets/files/main.pdf).
+- *About the identification of tsunamis from surface measurements*, 4 July 2024, [Waves 2024](https://waves2024.mps.mpg.de/) , [Abstract](/assets/files/main.pdf)
 
+###### PhD Defense
+
+*An inverse problem in oceanography: Identification of the bottom deformations from free surface measurements*, 7 October 2026, [Slides](/assets/files/Soutenance_these.pdf)
