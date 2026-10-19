@@ -21,4 +21,4 @@ title: "Papers"
 
 ###### Thesis
 
-- *An inverse problem in oceanography: Identification of the bottom deformations from free surface measurements*, [Hal](Soontocome)
+- *An inverse problem in oceanography: Identification of the bottom deformations from free surface measurements*, [Hal](/assets/files/these.pdf)
