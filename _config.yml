@@ -21,7 +21,7 @@ title                    : "Raphaël Terrine"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Raphaël Terrine"
-description              : "Raphaël Terrine's academic website."
+description              : "Raphael Terrine's academic website."
 url                      : "https://RaphaelTerrine.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
