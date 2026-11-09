@@ -125,6 +125,9 @@ author:
     - label: "Scholar"
       icon: "ai ai-fw ai-google-scholar"
       url: "https://scholar.google.fr/citations?user=JSjY8fkAAAAJ&hl=fr"
+    - label: "Scholar"
+      icon: "ai_orcid"
+      url: "https://orcid.org/0009-0008-6865-5675"
     
   
     # - label: "Email"
